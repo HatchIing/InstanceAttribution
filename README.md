@@ -1,7 +1,7 @@
 # Comparing Instance Attribution to k-Nearest Neighbors
 
 This is the code for the paper A Comparison of Instance Attribution Methods. All third party code is publicly available 
-except for the pre-trained ExPred model, contact Avishek Anand for more information. 
+except for the pre-trained ExPred model, contact Avishek Anand for more information. This is part of the 2023 TuDelft Research Projec (https://github.com/TU-Delft-CSE/Research-Project).
 
 ## Usage:
   1. Pull FastIF, TracIn, and the pre-trained ExPred model, and import into designated files folders.
